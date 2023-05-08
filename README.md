@@ -8,3 +8,4 @@
 * hour: Bike Sharing Dataset=> https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
 * imports-85.data: Automobile Data Set=> https://archive.ics.uci.edu/ml/datasets/automobile
 * heart: Heart Failure Prediction Dataset=> https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+* insurance: Medical Cost Personal Datasets=> https://www.kaggle.com/datasets/mirichoi0218/insurance?resource=download
