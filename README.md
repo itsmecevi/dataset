@@ -6,3 +6,4 @@
 * sp500 (1/3/1950-9/12/2022): https://finance.yahoo.com/
 * Metro_Interstate_Traffic_Volume: https://www.kaggle.com/datasets/mikedev/metro-traffic-volume
 * hour: Bike Sharing Dataset=> https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
+* imports-85.data: Automobile Data Set=> https://archive.ics.uci.edu/ml/datasets/automobile
