@@ -9,3 +9,4 @@
 * imports-85.data: Automobile Data Set=> https://archive.ics.uci.edu/ml/datasets/automobile
 * heart: Heart Failure Prediction Dataset=> https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
 * insurance: Medical Cost Personal Datasets=> https://www.kaggle.com/datasets/mirichoi0218/insurance?resource=download
+* local_weather: weather data from a station at the Oakland International Airport=> https://www.ncdc.noaa.gov/cdo-web/search
