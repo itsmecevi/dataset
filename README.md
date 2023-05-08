@@ -7,3 +7,4 @@
 * Metro_Interstate_Traffic_Volume: https://www.kaggle.com/datasets/mikedev/metro-traffic-volume
 * hour: Bike Sharing Dataset=> https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
 * imports-85.data: Automobile Data Set=> https://archive.ics.uci.edu/ml/datasets/automobile
+* heart: Heart Failure Prediction Dataset=> https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
