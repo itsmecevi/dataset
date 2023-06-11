@@ -15,3 +15,4 @@
 * artsworks: Collections of Paintings from 50 Artists=> https://github.com/MuseumofModernArt/collection
 * dq_unisex_names: https://data.world/fivethirtyeight/unisex-names
 * SMSSpamCollection: https://archive.ics.uci.edu/ml/datasets/sms+spam+collection
+* oakland.csv: https://www.ncdc.noaa.gov/cdo-web/datasets
