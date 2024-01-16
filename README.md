@@ -16,3 +16,4 @@
 * dq_unisex_names: https://data.world/fivethirtyeight/unisex-names
 * SMSSpamCollection: https://archive.ics.uci.edu/ml/datasets/sms+spam+collection
 * oakland.csv: https://www.ncdc.noaa.gov/cdo-web/datasets
+* housing.csv: https://github.com/ageron/handson-ml2/tree/master/datasets/housing
