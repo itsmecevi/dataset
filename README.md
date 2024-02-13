@@ -20,3 +20,5 @@
 * winereview.csv: https://www.kaggle.com/code/residentmario/indexing-selecting-assigning/data
 * CAvideos100data.csv: https://www.kaggle.com/code/residentmario/renaming-and-combining/data?select=CAvideos.csv
 * GBvideos100data.csv: https://www.kaggle.com/code/residentmario/renaming-and-combining/data?select=GBvideos.csv
+* Games.csv: https://www.kaggle.com/code/residentmario/renaming-and-combining/data
+* 
