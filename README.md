@@ -23,3 +23,4 @@
 * Games.csv: https://www.kaggle.com/code/residentmario/renaming-and-combining/data
 * matches.csv: https://www.kaggle.com/code/residentmario/renaming-and-combining/data
 * NFL1000data.csv: https://www.kaggle.com/code/alexisbcook/handling-missing-values/data?select=NFL+Play+by+Play+2009-2017+%28v4%29.csv
+* permit1000data.csv: https://www.kaggle.com/datasets/aparnashastry/building-permit-applications-data
