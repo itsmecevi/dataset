@@ -25,3 +25,4 @@
 * NFL1000data.csv: https://www.kaggle.com/code/alexisbcook/handling-missing-values/data?select=NFL+Play+by+Play+2009-2017+%28v4%29.csv
 * permit1000data.csv: https://www.kaggle.com/datasets/aparnashastry/building-permit-applications-data
 * catalog.csv: https://www.kaggle.com/code/alexisbcook/parsing-dates/data?select=catalog.csv
+* PoliceKillingsUS.csv: https://www.kaggle.com/datasets/kwullum/fatal-police-shootings-in-the-us
