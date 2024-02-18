@@ -28,3 +28,5 @@
 * PoliceKillingsUS.csv: https://www.kaggle.com/datasets/kwullum/fatal-police-shootings-in-the-us
 * pakistan_intellectual_capital.csv: https://www.kaggle.com/code/alexisbcook/inconsistent-data-entry/data?select=pakistan_intellectual_capital.csv
 * fifa.csv: https://www.kaggle.com/code/alexisbcook/hello-seaborn/data?select=fifa.csv
+* spotify.csv: https://www.kaggle.com/code/alexisbcook/line-charts/data?select=museum_visitors.csv
+* museum_visitors.csv: https://www.kaggle.com/code/alexisbcook/line-charts/data?select=museum_visitors.csv
