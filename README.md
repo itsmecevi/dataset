@@ -30,3 +30,5 @@
 * fifa.csv: https://www.kaggle.com/code/alexisbcook/hello-seaborn/data?select=fifa.csv
 * spotify.csv: https://www.kaggle.com/code/alexisbcook/line-charts/data?select=museum_visitors.csv
 * museum_visitors.csv: https://www.kaggle.com/code/alexisbcook/line-charts/data?select=museum_visitors.csv
+* flight_delays.csv: https://www.kaggle.com/code/alexisbcook/bar-charts-and-heatmaps/data?select=flight_delays.csv
+* ign_scores.csv: https://www.kaggle.com/code/alexisbcook/bar-charts-and-heatmaps/data?select=ign_scores.csv
