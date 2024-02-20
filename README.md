@@ -34,3 +34,4 @@
 * ign_scores.csv: https://www.kaggle.com/code/alexisbcook/bar-charts-and-heatmaps/data?select=ign_scores.csv
 * candy.csv: https://www.kaggle.com/code/alexisbcook/scatter-plots/data?select=candy.csv
 * iris.csv: https://www.kaggle.com/code/alexisbcook/distributions/data?select=iris.csv
+* cancer.csv: https://www.kaggle.com/code/alexisbcook/distributions/data
