@@ -35,3 +35,4 @@
 * candy.csv: https://www.kaggle.com/code/alexisbcook/scatter-plots/data?select=candy.csv
 * iris.csv: https://www.kaggle.com/code/alexisbcook/distributions/data?select=iris.csv
 * cancer.csv: https://www.kaggle.com/code/alexisbcook/distributions/data
+* melb_data.csv: https://www.kaggle.com/code/dansbecker/basic-data-exploration/data?select=melb_data.csv
