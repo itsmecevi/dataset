@@ -38,3 +38,4 @@
 * melb_data.csv: https://www.kaggle.com/code/dansbecker/basic-data-exploration/data?select=melb_data.csv
 * housingtrain.csv: https://www.kaggle.com/code/dansbecker/basic-data-exploration/data?select=train.csv
 * concrete.csv: https://www.kaggle.com/code/ryanholbrook/what-is-feature-engineering/data?select=concrete.csv
+* autos.csv: https://www.kaggle.com/code/ryanholbrook/mutual-information/data?select=autos.csv
