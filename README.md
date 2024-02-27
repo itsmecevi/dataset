@@ -39,3 +39,4 @@
 * housingtrain.csv: https://www.kaggle.com/code/dansbecker/basic-data-exploration/data?select=train.csv
 * concrete.csv: https://www.kaggle.com/code/ryanholbrook/what-is-feature-engineering/data?select=concrete.csv
 * autos.csv: https://www.kaggle.com/code/ryanholbrook/mutual-information/data?select=autos.csv
+* accidents.csv: https://www.kaggle.com/code/ryanholbrook/creating-features/data?select=accidents.csv
