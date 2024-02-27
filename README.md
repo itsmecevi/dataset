@@ -40,3 +40,4 @@
 * concrete.csv: https://www.kaggle.com/code/ryanholbrook/what-is-feature-engineering/data?select=concrete.csv
 * autos.csv: https://www.kaggle.com/code/ryanholbrook/mutual-information/data?select=autos.csv
 * accidents.csv: https://www.kaggle.com/code/ryanholbrook/creating-features/data?select=accidents.csv
+* customer.csv: https://www.kaggle.com/code/ryanholbrook/creating-features/data?select=customer.csv
