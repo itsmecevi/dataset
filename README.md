@@ -41,3 +41,4 @@
 * autos.csv: https://www.kaggle.com/code/ryanholbrook/mutual-information/data?select=autos.csv
 * accidents.csv: https://www.kaggle.com/code/ryanholbrook/creating-features/data?select=accidents.csv
 * customer.csv: https://www.kaggle.com/code/ryanholbrook/creating-features/data?select=customer.csv
+* movielens1m100data.csv: https://www.kaggle.com/code/ryanholbrook/target-encoding/data?select=movielens1m.csv
