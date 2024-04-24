@@ -44,3 +44,4 @@
 * movielens1m100data.csv: https://www.kaggle.com/code/ryanholbrook/target-encoding/data?select=movielens1m.csv
 * housingprice_train.csv: https://www.kaggle.com/code/alexisbcook/missing-values/data?select=train.csv
 * housingprice_test.csv: https://www.kaggle.com/code/alexisbcook/missing-values/data?select=test.csv
+* TelcoCustomerChurnDataset.csv: https://www.kaggle.com/datasets/rahulrajml/telecom-churn-prediction
