@@ -46,3 +46,4 @@
 * housingprice_test.csv: https://www.kaggle.com/code/alexisbcook/missing-values/data?select=test.csv
 * TelcoCustomerChurnDataset.csv: https://www.kaggle.com/datasets/rahulrajml/telecom-churn-prediction
 * FIFA 2018 Statistics.csv: https://www.kaggle.com/code/dansbecker/permutation-importance/data?select=FIFA+2018+Statistics.csv
+* ny_taxi_fare_train.csv: https://www.kaggle.com/code/dansbecker/permutation-importance/data?select=train.csv
