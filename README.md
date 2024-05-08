@@ -48,3 +48,4 @@
 * FIFA 2018 Statistics.csv: https://www.kaggle.com/code/dansbecker/permutation-importance/data?select=FIFA+2018+Statistics.csv
 * ny_taxi_fare_train.csv: https://www.kaggle.com/code/dansbecker/permutation-importance/data?select=train.csv
 * creditdata: https://www.kaggle.com/datasets/gauravduttakiit/credit-card-payment-default-prediction?select=train_20D8GL3.csv
+* germancredit: https://www.kaggle.com/datasets/kabure/german-credit-data-with-risk/data
