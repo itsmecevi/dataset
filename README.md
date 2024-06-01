@@ -52,3 +52,4 @@
 * telcochurn_mlzoomcamp.csv: https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
 * winequality-red.csv: https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009/data
 * dataset_penyisihan_bdc_2024.csv: https://satriadata.kemdikbud.go.id/
+* dataset_unlabeled_penyisihan_bdc_2024: https://satriadata.kemdikbud.go.id/
