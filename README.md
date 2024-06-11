@@ -53,3 +53,5 @@
 * winequality-red.csv: https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009/data
 * dataset_penyisihan_bdc_2024.csv: https://satriadata.kemdikbud.go.id/
 * dataset_unlabeled_penyisihan_bdc_2024: https://satriadata.kemdikbud.go.id/
+* shopee_my_reviews: https://play.google.com/store/apps/details?id=com.shopee.my&hl=en_US&pli=1
+* shopee_id_reviews: https://play.google.com/store/apps/details?id=com.shopee.id&hl=id
