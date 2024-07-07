@@ -56,3 +56,4 @@
 * shopee_my_reviews: https://play.google.com/store/apps/details?id=com.shopee.my&hl=en_US&pli=1
 * shopee_id_reviews: https://play.google.com/store/apps/details?id=com.shopee.id&hl=id
 * readmission_train.csv: https://www.kaggle.com/code/dansbecker/shap-values/data?select=train.csv
+* housingprice_test.csv: https://www.kaggle.com/c/home-data-for-ml-course/data?select=test.csv
