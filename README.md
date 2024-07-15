@@ -58,3 +58,4 @@
 * readmission_train.csv: https://www.kaggle.com/code/dansbecker/shap-values/data?select=train.csv
 * housingprice_test.csv: https://www.kaggle.com/c/home-data-for-ml-course/data?select=test.csv
 * AER_credit_card_data.csv: https://www.kaggle.com/code/alexisbcook/data-leakage/tutorial
+* book_sales.csv: https://www.kaggle.com/code/ryanholbrook/linear-regression-with-time-series/tutorial
