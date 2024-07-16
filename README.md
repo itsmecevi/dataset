@@ -61,3 +61,4 @@
 * book_sales.csv: https://www.kaggle.com/code/ryanholbrook/linear-regression-with-time-series/tutorial
 * tunnel.csv: https://www.kaggle.com/code/ryanholbrook/linear-regression-with-time-series/data?select=tunnel.csv
 * ar.csv: https://www.kaggle.com/code/ryanholbrook/linear-regression-with-time-series/data?select=ar.csv
+* titanic_train.csv: https://www.kaggle.com/competitions/titanic/data?select=train.csv
